@@ -1,0 +1,8 @@
+node_modules/
+*.db
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
+*.iml
